@@ -2,6 +2,8 @@
 
 A metro-building strategy game in C++17 and SFML 3. Draw routes on two maps, carry passengers to matching station shapes, arrange transfers and keep stations from overcrowding. Weekly upgrades add trains, carriages, lines, tunnels and interchanges.
 
+![Metro Flow](preview.png)
+
 ## Build and run on Linux
 
 Requires a C++17 compiler, Git, CMake 3.28+ and OpenGL. On Debian/Ubuntu:
