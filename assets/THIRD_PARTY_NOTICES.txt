@@ -1,0 +1,14 @@
+# Third-party notices
+
+- **SFML 3.0.2** — zlib/libpng licence. Source is fetched by CMake from the official SFML repository, pinned to commit `0fa201c969e48ecc253581c5841ce73f44d42f49`. Licence: `SFML-LICENSE.md`. Project: https://www.sfml-dev.org/ .
+- **DejaVu Sans** — bundled font. Copyright and redistribution terms: `DejaVu-LICENSE.txt`. Project: https://dejavu-fonts.github.io/ .
+- **FreeType** — font rendering dependency used by SFML. SFML fetches it on some platforms; Linux uses the system package. FreeType is available under the FreeType Licence or GPLv2. The FreeType Licence notice is included as `FreeType-LICENSE.txt`.
+- **stb_image / stb_image_write** — included in SFML under the MIT/public-domain dual licence. MIT terms are included in `stb-LICENSE.txt` for runtime distribution.
+- **Vulkan headers** — copyright 2015–2018 The Khronos Group Inc., Apache 2.0. Used by the SFML window module; full licence: `Vulkan-Apache-2.0.txt`.
+- **glad** — OpenGL loader included in SFML. Notices are in `glad-LICENSE.txt`.
+
+MetroFlow's vector map, symbols and UI are drawn by the application. No assets, maps, sounds or source code from Mini Metro are included. Mini Metro is a game by Dinosaur Polo Club; MetroFlow is independent and unaffiliated.
+
+Original supplied prototype source headers credit **Antoni**. Its classes and code are the foundation of this version.
+
+This software is based in part on the work of the FreeType Team (https://freetype.org/).
